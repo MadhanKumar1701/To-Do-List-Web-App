@@ -38,7 +38,17 @@ todo-app/
 └── README.md
 ```
 
+## 📸 Screenshot
+
+![To-Do App Screenshot](screenshot.png)
+
 ---
+
+## 🚀 Live Demo
+
+Check out the live version of the app [here](https://yourusername.github.io/To-Do-List-Web-App/).
+
+
 
 ## 💻 Setup Instructions
 
