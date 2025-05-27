@@ -46,7 +46,7 @@ todo-app/
 
 ## 🚀 Live Demo
 
-Check out the live version of the app [here](https://yourusername.github.io/To-Do-List-Web-App/).
+Check out the live version of the app https://madhankumar1701.github.io/To-Do-List-Web-App/
 
 
 
