@@ -50,10 +50,3 @@ todo-app/
 
 ---
 
-## 🧾 Submission
-
-To submit your task:
-- Upload this folder to a new GitHub repository.
-- Paste your GitHub repo link in the [Submission Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
-Good luck, and aim for **Best Performer**! 🚀
